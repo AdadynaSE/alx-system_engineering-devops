@@ -1,1 +1,1 @@
-shekk redirections
+hello world scrip
